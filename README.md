@@ -8,22 +8,19 @@ I thrive at the intersection of **AI/ML, compliance automation, and enterprise p
 ---
 
 ## Product Portfolio Highlights  
-- **Garuda (0 → 1)** – Fintech Risk Intelligence Platform generating **$75K ARR** with 3 BFSI enterprise clients.  
+- **Garuda (0 → 1)** – Fintech Risk Intelligence Platform generating **20% of ARR** with 3 BFSI enterprise clients.  
 - **Argus (0 → 1)** – Fraud Detection & AML Compliance SaaS driving **40% enterprise adoption growth**.  
-- **Sarvag Scan (0 → 1 MVP)** – Cybersecurity Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats.  
-- **AI-Powered Compliance Chatbot** – Reduced analyst workload by **35%** through automation.  
-
+- **Sarvag Scan (0 → 1 MVP)** – Cybersecurity (Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats).   
 ---
 
 ## Expertise  
-- **Product Management:** End-to-end lifecycle (0 → 1 → N), Roadmaps, Agile (Scrum/SAFe), OKRs, Stakeholder Management, GTM Strategy  
+- **Product Management:** End-to-end Product lifecycle (0 → 1), Roadmaps, Agile, OKRs, Stakeholder Management, GTM Strategy  
 - **Fintech:** Fraud Detection, AML/KYC, Risk Intelligence, Transaction Monitoring, Compliance Automation  
 - **Cybersecurity:** Brand Protection, Dark Web Monitoring, Threat Intelligence, Identity Verification  
-- **AI & Data:**  
-  - **Computer Vision** – anomaly detection, fraud detection, and brand misuse analysis  
+- **AI & ML:**  
+  - **Computer Vision** – Object Detection, Facial recognition systems, Number Plate Detection.  
   - **Natural Language Processing (NLP)** – sentiment analysis, phishing detection, compliance automation  
-  - **Retrieval-Augmented Generation (RAG) with LLMs** – enterprise-ready knowledge retrieval, compliance workflows, and fraud investigation copilots  
-  - **Big Data & Analytics**, **Model Evaluation & Deployment** for scalable SaaS platforms  
+  - **Retrieval-Augmented Generation (RAG) with LLMs** – enterprise-ready knowledge retrieval, compliance workflows.  
 - **Tools & Collaboration:** JIRA, Confluence, Miro, Figma, Notion, Postman, SQL (basic), Python (basic), Client Research, Competitive Benchmarking  
 
 ---
