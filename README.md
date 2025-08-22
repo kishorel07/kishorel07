@@ -10,7 +10,7 @@ I thrive at the intersection of **AI/ML, compliance automation, and enterprise p
 ## Product Portfolio Highlights  
 - **Garuda (0 → 1)** – Fintech Risk Intelligence Platform generating **20% of ARR** with 3 BFSI enterprise clients.  
 - **Argus (0 → 1)** – Fraud Detection & AML Compliance SaaS driving **40% enterprise adoption growth**.  
-- **Sarvag Scan (0 → 1 MVP)** – Cybersecurity (Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats).   
+- **Sarvag Scan (MVP)** – Cybersecurity (Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats).   
 ---
 
 ## Expertise  
