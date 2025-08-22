@@ -17,7 +17,7 @@ I thrive at the intersection of **AI/ML, compliance automation, and enterprise p
 - **Product Management:** End-to-end Product lifecycle (0 → 1), Roadmaps, Agile, OKRs, Stakeholder Management, GTM Strategy  
 - **Fintech:** Fraud Detection, AML/KYC, Risk Intelligence, Transaction Monitoring, Compliance Automation  
 - **Cybersecurity:** Brand Protection, Dark Web Monitoring, Threat Intelligence, Identity Verification  
-- **AI & ML:**  
+- **AI & ML: ((Conceptual Knowledge & Leadership)**  
   - **Computer Vision** – Object Detection, Facial recognition systems, Number Plate Detection.  
   - **Natural Language Processing (NLP)** – sentiment analysis, phishing detection, compliance automation  
   - **Retrieval-Augmented Generation (RAG) with LLMs** – enterprise-ready knowledge retrieval, compliance workflows.  
@@ -37,4 +37,4 @@ If you’re building in **Fintech, RegTech, Cybersecurity, or AI-powered SaaS**,
 
 📫 **kishorelakshmi134@gmail.com**  
 🔗 **[LinkedIn](https://linkedin.com/in/your-profile)**  
-💻 **[Portfolio/Projects](https://github.com/your-github-username)**  
+💻 **[Portfolio](https://github.com/kishorel07/Product_Portfolio)**  
