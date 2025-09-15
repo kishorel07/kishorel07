@@ -1,7 +1,7 @@
-# Product Manager | Fintech & Cybersecurity SaaS | AI/ML-Powered B2B Platforms  
+# Product Manager | Fintech & Defense Tech SaaS | AI/ML-Powered B2B Platforms  
 
 ## About Me  
-A strategic and impact-driven **Product Manager** with **4.7 years of experience** building and scaling **B2B SaaS platforms** in **Fintech and Cybersecurity**. Recognized for **0 → 1 product launches, and driving enterprise adoption**, with measurable impact on **ARR growth, fraud detection accuracy (+45%), and adoption rates (+25%)**.  
+A strategic and impact-driven **Product Manager** with **4.7 years of experience** building and scaling **B2B SaaS platforms** in **Fintech and Defense Tech**. Recognized for **0 → 1 product launches, and driving enterprise adoption**, with measurable impact on **ARR growth, fraud detection accuracy (+45%), and adoption rates (+25%)**.  
 
 I thrive at the intersection of **AI/ML, compliance automation, and enterprise product scaling**, translating deep client insights into solutions that **mitigate fraud, protect digital brands, and ensure regulatory compliance**. Known for strong **stakeholder management, customer advocacy, and roadmap execution**, I’m passionate about building **secure, data-driven, and market-ready SaaS products** that deliver tangible value.  
 
@@ -10,7 +10,7 @@ I thrive at the intersection of **AI/ML, compliance automation, and enterprise p
 ## Product Portfolio Highlights  
 - **Garuda (0 → 1)** – Fintech Risk Intelligence Platform generating **20% of ARR** with 3 BFSI enterprise clients.  
 - **Argus (0 → 1)** – Fraud Detection & AML Compliance SaaS driving **40% enterprise adoption growth**.  
-- **Sarvag Scan (MVP)** – Cybersecurity (Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats).   
+- **Deep Scan (MVP)** – Brand Monitoring Platform scraping **200+ Websites & 2000+ newspapers** for phishing/impersonation threats.   
 ---
 
 ## Expertise  
